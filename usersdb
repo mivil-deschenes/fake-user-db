@@ -1,0 +1,52 @@
+[
+  {
+    "primary_user": {
+      "first_name": "Julian",
+      "last_name": "Vance",
+      "dob": "1985-05-12",
+      "email": "j.vance@aethertech.com",
+      "email_type": "work",
+      "company": "Aether Tech",
+      "unique_id": "AT-104",
+      "dependents": [
+        {
+          "first_name": "Clara",
+          "last_name": "Vance",
+          "dob": "1987-01-05",
+          "email": "c.vance@aethertech.com",
+          "email_type": "work",
+          "relationship": "spouse"
+        },
+        {
+          "first_name": "Leo",
+          "last_name": "Vance",
+          "dob": "2015-09-12",
+          "email": "leo.vance@gmail.com",
+          "email_type": "personal",
+          "relationship": "child"
+        }
+      ]
+    }
+  },
+  {
+    "primary_user": {
+      "first_name": "Elena",
+      "last_name": "Gilbert",
+      "dob": "1995-07-30",
+      "email": "elena.g@yahoo.com",
+      "email_type": "personal",
+      "company": "Delta Dynamics",
+      "unique_id": null,
+      "dependents": [
+        {
+          "first_name": "Jeremy",
+          "last_name": "Gilbert",
+          "dob": "1998-10-14",
+          "email": "j.gilbert@deltadynamics.com",
+          "email_type": "work",
+          "relationship": "child"
+        }
+      ]
+    }
+  }
+]
